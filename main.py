@@ -167,7 +167,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024 𝗠𝗔𝗛𝗔𝗞𝗔𝗟 𝗕𝗛𝗔𝗞𝗧 𝗖𝗛𝗜𝗥𝗔𝗡𝗝𝗜𝗜𝗧✌️😈🐧</p>
+    <p>© 2024 MAHAKAL BHAKT CHIRANJIT✌️😈🐧</p>
     <p> 😎𝗔𝗟𝗪𝗔𝗬𝗘𝗦 𝗕𝗘 𝗛𝗔𝗣𝗣𝗬🌹 <a href="https://www.facebook.com/MAHAKALBHAKTOMNAMAHSHIVAYAAA85">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+918509432926" class="whatsapp-link">
